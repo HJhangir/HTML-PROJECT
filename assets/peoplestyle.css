@@ -1,0 +1,140 @@
+*{
+    margin: 0%;
+    text-decoration: none
+
+}
+
+.logo_button{
+    display: flex;
+    align-items: center;
+
+}
+
+.logo_button img{
+    width: 50px;
+    padding-left: 15%;
+    padding-top: 1%;
+    align-items: center;
+
+}
+
+.logo_button form{
+    display: flex;
+    padding-left: 15%;
+
+}
+.logo_button select{
+    display: flex;
+    font-size: 16px;
+    padding: 5px;
+    align-items: center;
+
+    
+}
+
+.logo_button input{
+    font-size: 16px;
+    padding: 5px;
+    width: 250px;
+}
+
+.logo_button button{
+    font-size: 16px;
+    padding: 5px;
+}
+
+.cotegory{
+    display: flex;
+    align-items:center ;
+    padding-left: 5%;
+    gap: 20px;
+
+}
+
+.register{
+
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 30px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+
+}
+
+.register a{
+
+    color: #0000009D;
+}
+.register:hover{
+    background-color: rgb(233, 233, 233);
+}
+
+.Sign_up a{
+
+    display: flex;
+    color:#0A66C2;
+    border: 1px solid #0A66C2;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Sign_up a:hover{
+    background-color: #0A66C2;
+    color: white;
+
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+
+
+}
+.middle img{
+    display: flex;
+    width: 500px;
+    padding-top: 10%;
+}
+
+.text{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+.down_part{
+
+    display: flex;
+    gap: 15PX;
+    justify-content: center;
+    padding: 20px;
+    padding-top: 10%;
+
+}
+
+.down_part a{
+
+    color:#0000009D;
+}
+
+
+.down_part select{
+
+    border:  1px solid white;
+    border-radius: 30px;
+    color: #0000009D;
+
+}
+
+.down_part img{
+
+    width: 20px;
+}

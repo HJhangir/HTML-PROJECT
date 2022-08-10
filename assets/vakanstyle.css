@@ -1,0 +1,203 @@
+*{
+    margin: 0%;
+    text-decoration: none
+}
+
+.logo_button{
+    display: flex;
+    align-items: center;
+
+}
+
+.logo_button img{
+    width: 50px;
+    padding-left: 15%;
+    padding-top: 1%;
+}
+
+.logo_button form{
+    display: flex;
+    padding-left: 15%;
+}
+.logo_button select{
+    font-size: 16px;
+    padding: 5px;
+    
+}
+
+.logo_button input{
+    font-size: 16px;
+    padding: 5px;
+    width: 250px;
+}
+
+.logo_button button{
+    font-size: 16px;
+    padding: 5px;
+}
+
+.cotegory{
+    display: flex;
+    align-items:center ;
+    padding-left: 5%;
+    gap: 20px;
+
+}
+
+.register{
+
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 30px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+
+
+}
+
+.register:hover{
+    background-color: rgb(233, 233, 233);
+}
+
+
+.register a{
+
+    color: #0000009D;
+}
+
+.Sign_up a{
+
+    display: flex;
+    color:#0A66C2;
+    border: 1px solid #0A66C2;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Sign_up a:hover{
+    background-color: #0A66C2;
+    color: white;
+
+}
+
+
+
+.selections{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 15px;
+}
+
+.selections select{
+
+    border: 1px solid rgb(87, 118, 41);
+    border-radius: 30px;
+    padding: 10px;
+
+
+}
+
+.selections select:hover{
+
+    color: white;
+    background-color: rgb(87, 118, 41);
+
+}
+
+.hr{
+    padding-top: 25px;
+}
+
+.hr hr{
+
+    color: rgb(255, 255, 255);
+}
+
+.vacancie_serach{
+    display: flex;
+    justify-content: center;
+}
+
+
+.vacancie_serach img{
+
+    width: 300px;
+    padding: 10px
+    
+}
+
+.bolt img{
+    display: flex;
+    padding-left: 47%;
+    width: 50px;
+}
+
+.bolt{
+    padding-top: 10px   ;
+}
+
+.bolt a{
+    display: flex;
+    padding-left: 45%;
+    color:black;
+    
+}
+
+.bolt p{
+    display: flex;
+    padding-left: 45%;
+    color: #0000009D;
+
+}
+
+
+
+.tour img{
+    display: flex;
+    padding-left: 47%;
+    width: 50px;
+}
+
+.tour{
+    padding-top: 35px   ;
+}
+
+.tour a{
+    display: flex;
+    padding-left: 45%;
+    color:black;
+    
+}
+
+.tour p{
+    display: flex;
+    padding-left: 45%;
+    color: #0000009D;
+
+}
+
+.down{
+
+    display: flex;
+    padding-top: 2%;
+    justify-content: center;
+
+}
+
+.down svg{
+    display:flex ;
+    font-size: 35px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 15px;
+
+
+}
